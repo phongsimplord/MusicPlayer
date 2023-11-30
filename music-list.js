@@ -1,0 +1,80 @@
+let allMusic = [
+  {
+    name: "3107-2",
+    artist: "W/N, Duongg, Nau",
+    img: "sound3107-2",
+    src: "sound3107-2",
+  },
+  {
+    name: "Bao tiền một mớ bình yên",
+    artist: "14 Casper, Bon Nghiêm",
+    img: "bao-tien-mot-mo-binh-yen",
+    src: "bao-tien-mot-mo-binh-yen",
+  },
+  {
+    name: "Chờ đợi có đáng sợ",
+    artist: "Andiez",
+    img: "cho-doi-co-dang-so",
+    src: "cho-doi-co-dang-so",
+  },
+  {
+    name: "Đã lỡ yêu em nhiều",
+    artist: "Justatee",
+    img: "da-lo-yeu-em-nhieu",
+    src: "da-lo-yeu-em-nhieu",
+  },
+  {
+    name: "Forget me now",
+    artist: "Fishy, Trí Dũng",
+    img: "forget-me-now",
+    src: "forget-me-now",
+  },
+  {
+    name: "Hẹn em kiếp sau  ",
+    artist: "Duy Phúc, Lã, TiB",
+    img: "hen-em-kiep-sau",
+    src: "hen-em-kiep-sau",
+  },
+  {
+    name: "Hẹn em ở lần yêu thứ 2",
+    artist: "Nguyenn, Đặng Tuấn Vũ",
+    img: "hen-em-o-lan-yeu-thu-2",
+    src: "hen-em-o-lan-yeu-thu-2",
+  },
+  {
+    name: "Nàng thơ",
+    artist: "Hoàng Dũng",
+    img: "nang-tho",
+    src: "nang-tho",
+  },
+  {
+    name: "Như anh đã thấy em",
+    artist: "PhucXp, Freak D",
+    img: "nhu-anh-da-thay-em",
+    src: "nhu-anh-da-thay-em",
+  },
+  {
+    name: "Sinh ra đã là thứ đối lập nhau",
+    artist: "Emcee L, Da LAB, Badbies",
+    img: "sinh-ra-da-la-thu-doi-lap-nhau",
+    src: "sinh-ra-da-la-thu-doi-lap-nhau",
+  },
+  {
+    name: "Suýt nữa thì",
+    artist: "Andiez",
+    img: "suyt-nua-thi",
+    src: "suyt-nua-thi",
+  },
+  {
+    name: "thằng điên",
+    artist: "Justatee, Phương Ly",
+    img: "thang-dien",
+    src: "thang-dien",
+  },
+  {
+    name: "Chỉ muốn bên em lúc này",
+    artist: "Orinn, Huy Vạc",
+    img: "chi-muon-ben-em-luc-nay",
+    src: "chi-muon-ben-em-luc-nay",
+  },
+];
